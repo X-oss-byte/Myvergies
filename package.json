@@ -45,9 +45,9 @@
   "main": "background.js",
   "dependencies": {
     "@deadcanaries/granax": "^3.2.5",
-    "@fortawesome/fontawesome-svg-core": "^1.2.32",
-    "@fortawesome/free-solid-svg-icons": "^5.15.1",
-    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "@fortawesome/fontawesome-svg-core": "^7.0.0",
+    "@fortawesome/free-solid-svg-icons": "^7.0.0",
+    "@fortawesome/vue-fontawesome": "^3.0.0",
     "axios": "^0.21.0",
     "bitcore-wallet-client-xvg": "^8.1.1",
     "buefy": "^0.9.4",
