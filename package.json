@@ -51,7 +51,7 @@
     "axios": "^0.21.0",
     "bitcore-wallet-client-xvg": "^8.1.1",
     "buefy": "^0.9.4",
-    "bulma": "0.9.1",
+    "bulma": "0.9.4",
     "chai-as-promised": "^7.1.1",
     "core-js": "^3.8.0",
     "electron-log": "^4.3.0",
