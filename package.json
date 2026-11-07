@@ -99,7 +99,7 @@
     "electron": "^22.3.21",
     "electron-builder": "^22.10.4",
     "electron-notarize": "^0.3.0",
-    "electron-util": "^0.14.2",
+    "electron-util": "^0.18.0",
     "eslint": "^7.14.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
